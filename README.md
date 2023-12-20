@@ -1,6 +1,6 @@
 # Alx_studyAR
 مرجع للطلاب بيدرسوا بالعربى 
-اساسياث قبل بدء البرنامج alx 
+اساسيات قبل بدء البرنامج software enginnering at ALX 
  ## elzero
   https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT
 ## Programming Advices
@@ -21,4 +21,15 @@
    https://programmingadvices.com/p/12-data-structures-level1
   او 
    https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp
+
+ # C - Makefiles
+ اول كام محاضرة كويسين قوى 
+    https://www.youtube.com/playlist?list=PLkH1REggdbJpmQKm8Nu-H8R81_-c00fpB
+
+
+# Python
+https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs
+# Python packages
+  https://www.youtube.com/watch?v=z7g9gCYYLiU&pp=ygUWcHl0aG9uIHBhY2thZ2VzINi02LHYrQ%3D%3D
   
+  https://www.youtube.com/watch?v=aA96q7oBdVk&pp=ygUWcHl0aG9uIHBhY2thZ2VzINi02LHYrQ%3D%3D
